@@ -10,3 +10,4 @@ Tomaten
 gurkerl
 paprika
 salat
+bananen
