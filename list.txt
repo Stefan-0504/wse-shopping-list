@@ -5,3 +5,7 @@ lebakaaas
 chips
 wurst
 kaese
+Tomaten
+gurkerl
+paprika
+salat
